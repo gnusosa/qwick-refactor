@@ -4,6 +4,7 @@ Qwick Refactor exercise in Haskell
 ## Layout
 
 The original file - * dosomething.js *
+
 The Haskell solution file - * transform.hs *
 
 ## What doThingsAndStuff() does
